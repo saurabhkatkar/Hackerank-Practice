@@ -1,0 +1,29 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Icecream",
+      "request": "launch",
+      "mainClass": "Icecream",
+      "projectName": "Interview-Practice_105d15c3"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}",
+      "shortenCommandLine": "auto"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Basics<Interview-Practice_105d15c3>",
+      "request": "launch",
+      "mainClass": "Basics",
+      "projectName": "Interview-Practice_105d15c3"
+    }
+  ]
+}
